@@ -1,0 +1,14 @@
+{
+  "name": "js_and_alg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "convert_to_roman.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^6.2.2"
+  }
+}
