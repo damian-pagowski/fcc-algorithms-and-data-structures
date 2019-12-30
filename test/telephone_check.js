@@ -1,7 +1,5 @@
 const chai = require("chai");
-const assert = chai.assert; // Using Assert style
-// var expect = chai.expect;    // Using Expect style
-// var should = chai.should();
+const assert = chai.assert; 
 
 function telephoneCheck(str) {
   const regex = RegExp(
